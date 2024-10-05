@@ -1,2 +1,2 @@
 # Android course project
-## Android_app
+## Scheduled notification app
