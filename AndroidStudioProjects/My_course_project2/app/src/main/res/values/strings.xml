@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My_course_project</string>
+    <string name="title">Title</string>
+    <string name="message">message</string>
+    <string name="notification">Notification</string>
+</resources>
